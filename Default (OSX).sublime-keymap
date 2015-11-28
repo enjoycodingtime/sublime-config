@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+s"], "command": "save_all" },
+	{ "keys": ["alt+space"], "command": "auto_complete" }
+]
